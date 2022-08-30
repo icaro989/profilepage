@@ -13,9 +13,7 @@ html {
 }
 
 body {
-    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
-    background-size: cover;
-    /*  background: var(--bg-color); */
+    background: var(--bg-color);
     color: var(--text-color);
     font-family: 'Roboto', sans-serif;
 }
